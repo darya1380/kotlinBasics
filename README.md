@@ -1,1 +1,1 @@
-kotlin is a good object oriented language
+kotlin is a good programming language
